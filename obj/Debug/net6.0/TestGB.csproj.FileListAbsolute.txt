@@ -1,0 +1,15 @@
+C:\Users\gimbo\Desktop\CWork\TestGB\bin\Debug\net6.0\TestGB.exe
+C:\Users\gimbo\Desktop\CWork\TestGB\bin\Debug\net6.0\TestGB.deps.json
+C:\Users\gimbo\Desktop\CWork\TestGB\bin\Debug\net6.0\TestGB.runtimeconfig.json
+C:\Users\gimbo\Desktop\CWork\TestGB\bin\Debug\net6.0\TestGB.dll
+C:\Users\gimbo\Desktop\CWork\TestGB\bin\Debug\net6.0\TestGB.pdb
+C:\Users\gimbo\Desktop\CWork\TestGB\obj\Debug\net6.0\TestGB.csproj.AssemblyReference.cache
+C:\Users\gimbo\Desktop\CWork\TestGB\obj\Debug\net6.0\TestGB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gimbo\Desktop\CWork\TestGB\obj\Debug\net6.0\TestGB.AssemblyInfoInputs.cache
+C:\Users\gimbo\Desktop\CWork\TestGB\obj\Debug\net6.0\TestGB.AssemblyInfo.cs
+C:\Users\gimbo\Desktop\CWork\TestGB\obj\Debug\net6.0\TestGB.csproj.CoreCompileInputs.cache
+C:\Users\gimbo\Desktop\CWork\TestGB\obj\Debug\net6.0\TestGB.dll
+C:\Users\gimbo\Desktop\CWork\TestGB\obj\Debug\net6.0\refint\TestGB.dll
+C:\Users\gimbo\Desktop\CWork\TestGB\obj\Debug\net6.0\TestGB.pdb
+C:\Users\gimbo\Desktop\CWork\TestGB\obj\Debug\net6.0\TestGB.genruntimeconfig.cache
+C:\Users\gimbo\Desktop\CWork\TestGB\obj\Debug\net6.0\ref\TestGB.dll
